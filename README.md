@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/aymendev1?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aymendev1?style=social"> &nbsp;&nbsp; <img alt="aymendev1 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="/assets/myLogo.png" alt="Aymendev1 logo"></img>
+  <img src="/assets/myLogo.png" alt="Aymendev1 logo" height="80px" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
@@ -15,6 +15,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages
 
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -67,9 +68,11 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img width="12" />
+</div>
 
 ## Some Tools with experience
 
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
@@ -96,7 +99,7 @@
 <img width="12" />        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
 <img width="12" />
-
+</div>
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 
 <div align="center">
@@ -123,6 +126,9 @@
   <a href="https://www.aymendev1.com/" target="_blank">
     <img align="center" alt="AymenDev1's Portfolio" width="24px" src="https://www.svgrepo.com/show/45055/world-wide-web.svg" />
   </a> &nbsp;&nbsp;
+ <a href="" target="_blank">
+ <img align="center" alt="Buy me a coffee" height ="40px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg"/>
+ </a> &nbsp;&nbsp;
 <p>
 
 <div align="center">
